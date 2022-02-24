@@ -2,3 +2,4 @@ __pycache__
 .attempts
 .recordings
 window.py
+.gitignore
